@@ -1,0 +1,2 @@
+Se ha actualizado la informacion del feature login
+con un fix simple
