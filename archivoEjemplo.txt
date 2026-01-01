@@ -1,0 +1,3 @@
+Informacion del proyecto que utiliza 
+la estrategia de ramificacion github-flow
+
